@@ -1,4 +1,4 @@
-# 💫 About Me:
+https://i.postimg.cc/K8wR0WzF/Black-and-Gray-Minimalist-Shapes-Personal-Profile-Linked-In-Banner.png
 Hi, I’m Sujan Hossen<br>I’m a MERN Stack Developer focused on building scalable and user-friendly web applications. I enjoy solving real-world problems using MongoDB, Express.js, React, and Node.js.<br><br>🔨 Currently building full-stack projects<br><br>🌱 Learning advanced backend & clean architecture<br><br>
 
 # 💻 Tech Stack:
