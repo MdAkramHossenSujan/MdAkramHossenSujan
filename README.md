@@ -3,8 +3,17 @@
 ### 👋 Hello and welcome! I’m Sujan  
 I’m a **MERN Stack Developer** focused on building scalable and user-friendly web applications. 
 
-🔨 Currently building full-stack projects  
-🌱 Learning advanced backend & clean architecture
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const sujan = {
+  name: "Sujan Hossen",
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "CSS"],
+  tools: ["React", "Node.js"],
+  challenge: "Currently working on real-world MERN projects and improving backend skills"
+};
+````
 
 
 # 💻 Tech Stack:
