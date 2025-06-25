@@ -1,8 +1,7 @@
 ![LinkedIn Banner](https://i.postimg.cc/K8wR0WzF/Black-and-Gray-Minimalist-Shapes-Personal-Profile-Linked-In-Banner.png)
 
-### Hi, I’m Sujan Hossen  
-I’m a **MERN Stack Developer** focused on building scalable and user-friendly web applications.  
-I enjoy solving real-world problems using **MongoDB, Express.js, React, and Node.js**.
+### 👋 Hello and welcome! I’m Sujan  
+I’m a **MERN Stack Developer** focused on building scalable and user-friendly web applications. 
 
 🔨 Currently building full-stack projects  
 🌱 Learning advanced backend & clean architecture
