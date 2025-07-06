@@ -1,7 +1,10 @@
 ![LinkedIn Banner](https://i.postimg.cc/K8wR0WzF/Black-and-Gray-Minimalist-Shapes-Personal-Profile-Linked-In-Banner.png)
 
 ### 👋 Hello and welcome! I’m Sujan  
-I’m a **MERN Stack Developer** focused on building scalable and user-friendly web applications. 
+
+I’m a **MERN Stack Developer** focused on building scalable and user-friendly web applications.  
+
+🌐 [Check out my Portfolio](https://mdsujandev.netlify.app/) 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
